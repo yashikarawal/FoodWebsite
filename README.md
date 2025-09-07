@@ -1,4 +1,4 @@
-# 🍽️ Food Website - Frontend Project
+# 🍽️ Food Ordering and Restaurant Showcase Website - Frontend Project
 
 This is a responsive and visually engaging static food website built using only **HTML** and **CSS**. The site showcases a variety of food items, complete with images, menu cards, order forms, and customer reviews. It is ideal as a portfolio project or template for a basic restaurant website.
 ---
